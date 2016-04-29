@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/xinran/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife/7.0.1/d5d13ea991eab0252e3710e5df3d6a9d4b21d461/butterknife-7.0.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="d5d13ea991eab0252e3710e5df3d6a9d4b21d461">
+        <dex dex="/Users/xinran/mygithub/TestViewGroup/app/build/intermediates/pre-dexed/debug/butterknife-7.0.1-259ac5c0f13a6b89c7fa41bb4668111f4beb0184.jar" />
+    </item>
+    <item
+        jar="/Users/xinran/mygithub/TestViewGroup/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.0/jars/libs/internal_impl-23.2.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6e239441500605809818997dd63b62a947195f8c">
+        <dex dex="/Users/xinran/mygithub/TestViewGroup/app/build/intermediates/pre-dexed/debug/internal_impl-23.2.0-535542d91f71ad2b9624e7ac4df1e2e2442650bb.jar" />
+    </item>
+    <item
+        jar="/Users/xinran/mygithub/TestViewGroup/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6e3578f92f7462d1a935a1d36173e3bdd1234976">
+        <dex dex="/Users/xinran/mygithub/TestViewGroup/app/build/intermediates/pre-dexed/debug/classes-79f2c35e1e221c48e1bb04f438a489be3ea82de0.jar" />
+    </item>
+    <item
+        jar="/Users/xinran/android-sdk-macosx/extras/android/m2repository/com/android/support/support-annotations/23.2.0/support-annotations-23.2.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="c5bf571bb10462bd90e5419ade67793f71acbc87">
+        <dex dex="/Users/xinran/mygithub/TestViewGroup/app/build/intermediates/pre-dexed/debug/support-annotations-23.2.0-a8397d4141f959bc470bd8470d91822c27f324d6.jar" />
+    </item>
+    <item
+        jar="/Users/xinran/mygithub/TestViewGroup/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="292a9fa091757208efa65e77eef63088247e51f3">
+        <dex dex="/Users/xinran/mygithub/TestViewGroup/app/build/intermediates/pre-dexed/debug/classes-44c80491038b72254db4004c1ec4d20f7805aae8.jar" />
+    </item>
+    <item
+        jar="/Users/xinran/mygithub/TestViewGroup/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8c108c22c99e794eff255bb34d2a461200c4cbb0">
+        <dex dex="/Users/xinran/mygithub/TestViewGroup/app/build/intermediates/pre-dexed/debug/classes-f606c565c2f13833e7dd4be66d3e6eb382411366.jar" />
+    </item>
+    <item
+        jar="/Users/xinran/mygithub/TestViewGroup/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e5f32fa48a3eb2de0c987025c11b6e3864b634d9">
+        <dex dex="/Users/xinran/mygithub/TestViewGroup/app/build/intermediates/pre-dexed/debug/classes-3c927af867af4966aa98670a91e581bb15ce1d0a.jar" />
+    </item>
+
+</items>
