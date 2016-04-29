@@ -1,0 +1,2 @@
+# QxCustomViewGroup
+一个简单的自定义ViewGroup 其实主要是重写了一下onmasure 和onlayout
